@@ -1,3 +1,5 @@
 texto original
 
 texto do segundo commit (alteração feita no rep local e empurrada ao rep remoto)
+
+texto adicionado à branch de nome tarefa1
